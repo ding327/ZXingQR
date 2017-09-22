@@ -88,3 +88,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+src/androidTest/java/com/android/zxingqr/ExampleInstrumentedTest.java
+src/test/java/com/android/zxingqr/ExampleUnitTest.java

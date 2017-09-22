@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZXingQR</string>
+
+    <string name="str_scan_title">扫一扫</string>
+    <string name="str_open_light">开启闪光灯</string>
+    <string name="str_close_light">关闭闪光灯</string>
+    <string name="str_scan_hint">取景框对准二维码, 即可自动扫描</string>
+</resources>
